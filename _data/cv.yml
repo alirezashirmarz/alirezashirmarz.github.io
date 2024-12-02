@@ -1,12 +1,12 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Alireza Shirmarz
       value: Albert Einstein
     - name: Date of Birth
-      value: 14th March 1879
+      value: 16th September 1985
     - name: Languages
-      value: English, German
+      value: English, Persian, Azerbaijani, Portugues
 
 - title: Education
   type: time_table
