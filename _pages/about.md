@@ -19,7 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I have been a researcher and teacher which my interests had been focused on the **# Software Defined Networking (SDN)**, **# Distributed Systems**, and **# Machine Learning (ML)**. **Currently,** I am a **Postdoc/Visiting Researcher** at **UFSCar**   LERIS Lab** to do the research on smart networking with focus on the Dataplane and # Cloud Gaming (CG) and # Augmented Reality (AR) applications. I am involved in the # SMARTNESS and #Erricson  
+I have been a researcher and teacher in the university which my research and teaching interests have been focused on the **# Software Defined Networking (SDN)**, **# Distributed Systems**, and **# Machine Learning (ML)** for more intelligent network. **Currently,** I am a **Postdoc/Visiting Researcher** at [**UFSCar**] (https://www.ufscar.br) Funded by **# FAPESP**. I work in the [**LERIS** (Laboratory of Studies in Networks, Innovation, and, Software) Lab] (https://leris.dcomp.ufscar.br). My reseach is focused on the **# Augmented Reality (AR) and Cloud Gaming (CG) network traffic Classification**, **"Automation"**, and **"Queue Management"** by using the Dataplane.    
+
+to do the research on smart networking with focus on the Dataplane and # Cloud Gaming (CG) and # Augmented Reality (AR) applications. I am involved in the # SMARTNESS and #Erricson  
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
