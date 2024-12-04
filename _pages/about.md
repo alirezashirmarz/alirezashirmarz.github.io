@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I have been a researcher and teacher which my interests had been focused on the # Software Defined Networking (SDN), # Distributed Systems, and I# Machine Learning (ML). **Currently,** I am a **Postdoc/Visiting Researcher** at **UFSCar/LERIS Lab** to do the research on smart networking with focus on the Dataplane and # Cloud Gaming (CG) and # Augmented Reality (AR) applications.  
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
