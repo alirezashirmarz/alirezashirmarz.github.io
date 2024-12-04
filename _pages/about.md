@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Federal University of Sao Carlos (UFSCar)</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'> Federal University of São Carlos (UFSCar) (UFSCar)</a>. Postdoc/Visiting Researcher.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: MyImage.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Dep. of Computer Science</p>
