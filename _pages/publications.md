@@ -17,29 +17,4 @@ nav_order: 2
 
 {% bibliography %}
 
-From Pixels to Packets: Traffic Classification of Augmented Reality and Cloud Gaming
-Alireza Shirmarz, Fábio Luciano Verdi, Suneet Kumar Singh, and 1 more author
-In 2024 IEEE 10th International Conference on Network Softwarization (NetSoft), 2024
-
-MATADOR: Ml-based Cloud Gaming Traffic Detection entirely in Programmable Hardware
-In IEEE Conference on Network Function Virtualization and Software Defined Networks (IEEE NFV-SDN), 2024
-
-POSMAC: Powering Up In-Network AR/CG Traffic Classification with Online Learning
-Suneet Kumar Singh Alireza Shirmarz, and Christian Esteve Rothenberg
-In IEEE Conference on Network Function Virtualization and Software Defined Networks (IEEE NFV-SDN), 2024
-
-
-Automatic delay-sensitive applications quality of service improvement with deep flows discrimination in software defined networks
-Ramin Mohammadi, Sedat Akleylek, Ali Ghaffari, and 1 more author
-Cluster Computing, 2023
-
-Network traffic discrimination improvement in software defined network (SDN) with deep autoencoder and ensemble method
-Alireza Shirmarz, and Ali Ghaffari, Journal of Ambient Intelligence and Humanized Computing, 2023
-
-A taxonomy of load balancing algorithms and approaches in fog computing: a survey
-Sepideh Ebneyousef, and Alireza Shirmarz, Cluster Computing, 2023.
-
-A comprehensive survey on machine learning using in software defined networks (SDN)
-Sahar Faezi, and Alireza Shirmarz, Human-Centric Intelligent Systems, 2023. 
-
 </div>
