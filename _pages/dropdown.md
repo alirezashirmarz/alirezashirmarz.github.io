@@ -9,7 +9,7 @@ children:
     permalink: /publications/
   - title: divider
   - title: projects
-    permalink: /projects/
+    permalink: /about/
   - title: divider
   - title: blog
     permalink: /blog/
