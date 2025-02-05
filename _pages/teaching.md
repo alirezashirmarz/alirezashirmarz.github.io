@@ -19,6 +19,8 @@ nav_order: 6
 - Data Mining
 - Advanced-Data Mining
 - Artificial Intelligence (AI)
+- Advanced Programming Principles 
 - Machine Learning
+  
 
 
