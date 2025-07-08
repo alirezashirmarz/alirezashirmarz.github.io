@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - dcomp-leris 
+  - alirezashirmarz
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - dcomp-leris/ARCG-DP-Deployment
+  - dcomp-leris/VR-AR-CG-network-telemetry
+  - dcomp-leris/CGReplay
+  - dcomp-leris/XR-AR-NTC
+  - dcomp-leris/DCTPQ
+  - dcomp-leris/CGSynth
+  - dcomp-leris/POSMAC
