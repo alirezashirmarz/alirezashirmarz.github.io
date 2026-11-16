@@ -7,7 +7,6 @@ address = {New York, NY, USA},
 issn = {1551-6857},
 url = {https://doi.org/10.1145/3860633},
 doi = {10.1145/3860633},
-abstract = {Cloud gaming research is constrained by the limited availability of open, reproducible, and quality-of-experience (QoE)-labeled traffic traces. Commercial platforms are closed, gameplay behavior is difficult to reproduce, and network conditions affect both video quality and interactivity. This paper presents CGSynth, a QoE-preserving framework that reconstructs packet-level cloud gaming traces while maintaining the principal quality trends observed in real gameplay sessions. We capture sessions from three representative games—Fortnite, Forza Horizon 5, and Mortal Kombat 11—streamed through Xbox Cloud Gaming and replay them under five controlled bandwidth conditions ranging from 2 to 10 Mbps. Packet timestamps are synthesized using a lightweight hybrid 1D-CNN–GRU model, while payloads are regenerated through standards-compliant video encoding and RTP packetization to preserve the uplink–downlink interaction structure. We also introduce an objective cloud gaming QoE model that combines video-quality metrics, including VMAF, SSIM, PSNR, LPIPS, and smoothness, with interactivity metrics covering response time and synchronization. The synthetic traces reproduce the monotonic QoE–bandwidth relationship observed in the real sessions, with average QoE deviations of 5–10\% at most operating points and worst-case deviations below 12\%. Video-quality differences are typically below 1 dB in PSNR and 10\% for the evaluated perceptual metrics, while interactivity discrepancies decrease to below 5\% at higher bandwidths. A controlled study with 20 participants further shows agreement between objective QoE and normalized subjective MOS, yielding Spearman correlations of 0.964, 0.804, and 0.964 for Fortnite, Forza Horizon 5, and Mortal Kombat 11, respectively. Comparison with an empirical sampler and NetDiffusion shows that, although the baselines reproduce some marginal packet statistics more accurately, CGSynth additionally generates decodable gameplay video and preserves command–video alignment for end-to-end QoE evaluation. These results support CGSynth as a reproducible framework for controlled cloud gaming experimentation within the evaluated games, platform, and network conditions.},
 note = {Just Accepted},
 journal = {ACM Trans. Multimedia Comput. Commun. Appl.},
 month = oct,
@@ -15,7 +14,7 @@ keywords = {Cloud Gaming Traffic, Synthetic Traffic Generation, Objective QoE, T
 selected={true}
 }
 
-@inproceedings{10.1145/3767308.3839015,
+@INPROCEEDINGS{10.1145/3767308.3839015,
 author = {Shirmarz, Alireza and Paula, Hugo Guilherme de Assis and Bragatto, Mateus de Nuzzi and Cardoso, Kleber Vieira and Verdi, F{\'a}bio Luciano},
 title = {CGReplay++: Replaying Cloud Gaming Sessions to Evaluate UDP, QUIC, and SCReAM},
 year = {2026},
@@ -24,8 +23,6 @@ publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
 url = {https://doi.org/10.1145/3767308.3839015},
 doi = {10.1145/3767308.3839015},
-abstract = {Cloud gaming (CG) is highly sensitive to congestion because real-time game video is streamed to the gamer while user commands are sent back to the cloud server. However, fair transport evaluation is difficult since gameplay is non-deterministic and commercial CG platforms are closed-source. This demo presents CGReplay++, a congestion-aware extension of CGReplay for reproducible transport evaluation. CGReplay++ replays pre-captured CG sessions while preserving video, commands, timing, and bidirectional interactivity. It adds a configurable transport layer supporting UDP/WebRTC-style transport, QUIC, RTP over QUIC (RoQ), and SCReAM. The demo shows how the same gameplay session can be replayed under controlled network conditions to compare transport impact on gamer-side QoE/QoS metrics, including VMAF, SSIM, PSNR, response time, delay, jitter, loss, and throughput.},
-booktitle = {Proceedings of the 34th ACM International Conference on Multimedia},
 pages = {17232–17234},
 numpages = {3},
 keywords = {cloud gaming traffic replay, congestion control mechanism, quality of experience (qoe) evaluation},
@@ -35,9 +32,6 @@ selected={true}
 }
 
   
-
-
-
 @INPROCEEDINGS{11579010,
   author={Shirmarz, Alireza and Verdi, Fábio Luciano and Patra, Gyanesh and Pongrácz, Gergely},
   booktitle={2026 IFIP Networking Conference (IFIP Networking)}, 
